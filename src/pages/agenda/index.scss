@@ -1,0 +1,15 @@
+.cabecalho{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    position: fixed;
+    background-color:#001429 ;
+}
+.botons{
+display: flex;
+
+button{
+    height:68px ;
+    width: 150px;
+}
+}
